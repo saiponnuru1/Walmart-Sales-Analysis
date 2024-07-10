@@ -1,2 +1,2 @@
 # Walmart-Sales-Analysis
-Using SQL for data analysis and Tableau for data visualisation to analyse Walmart's sales in Q1 2019
+Using SQL for data analysis and Tableau for data visualisation to analyse Walmart's sales in Q1 2019. We obtained the data from a past Kaggle competition. Here is the link:https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/rules. We then utilised feature engineering in SQL to help our data analysis. We further used Tableau for handy data visualtion. We then created a mock-report for Walmart using the insights we gained from the project. This project was done by Yahya Khan and Sai Ponnuru and our emails can be found on the PowerPoint report.
